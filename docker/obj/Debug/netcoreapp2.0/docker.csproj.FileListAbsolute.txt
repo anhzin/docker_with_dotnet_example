@@ -1,0 +1,11 @@
+D:\Virtual-machine\Docker\docker\docker\docker\bin\Debug\netcoreapp2.0\docker.deps.json
+D:\Virtual-machine\Docker\docker\docker\docker\bin\Debug\netcoreapp2.0\docker.runtimeconfig.json
+D:\Virtual-machine\Docker\docker\docker\docker\bin\Debug\netcoreapp2.0\docker.runtimeconfig.dev.json
+D:\Virtual-machine\Docker\docker\docker\docker\bin\Debug\netcoreapp2.0\docker.dll
+D:\Virtual-machine\Docker\docker\docker\docker\bin\Debug\netcoreapp2.0\docker.pdb
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.csprojResolveAssemblyReference.cache
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.csproj.CoreCompileInputs.cache
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.AssemblyInfoInputs.cache
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.AssemblyInfo.cs
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.dll
+D:\Virtual-machine\Docker\docker\docker\docker\obj\Debug\netcoreapp2.0\docker.pdb

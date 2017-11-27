@@ -1,0 +1,15 @@
+networks:
+  default:
+    external:
+      name: nat
+services:
+  docker:
+    build:
+      context: D:\Virtual-machine\Docker\docker\docker\docker
+      dockerfile: Dockerfile
+    environment:
+      ASPNETCORE_ENVIRONMENT: Development
+    image: docker
+    ports:
+    - 80/tcp
+version: '3.0'
